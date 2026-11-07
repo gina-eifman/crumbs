@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Иллюстрация блюда">
+  <rect width="800" height="560" fill="#f2e5d8"/>
+  <circle cx="402" cy="281" r="188" fill="#fffaf4"/>
+  <circle cx="402" cy="281" r="153" fill="#ead8c5"/>
+  <circle cx="402" cy="281" r="119" fill="#fffaf4"/>
+  <path d="M325 288c18-44 48-63 82-62 41 1 70 25 84 67-31 28-62 42-94 41-31-1-55-16-72-46Z" fill="#d7a779"/>
+  <path d="M355 277c12-21 25-32 43-32m20 15c15 5 26 15 34 31m-97 25c24 13 49 17 75 8" fill="none" stroke="#8e9a6b" stroke-linecap="round" stroke-width="12"/>
+  <circle cx="475" cy="226" r="11" fill="#c97959"/>
+  <circle cx="319" cy="330" r="9" fill="#c97959"/>
+  <path d="M613 100c12 12 18 25 17 39m-8-44c9 7 14 16 16 27" fill="none" stroke="#b77d5c" stroke-linecap="round" stroke-width="5"/>
+</svg>
